@@ -1,0 +1,1 @@
+Fulcrum Sage is a specialized consultancy that focuses on addressing the strategic cybersecurity and threat intelligence needs of clients who are trying to reduce risk, improve their defensive posture, and position themselves to be able to effectively deal for the security challenges of the future.
