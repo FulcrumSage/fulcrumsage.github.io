@@ -1,3 +1,5 @@
+<div style="text-align: right">[Home](index.md) | [About](About.md) | [Contact](contact.md)</div>
+
 # FULCRUM SAGE
 ## Cybersecurity and Intelligence Strategic Consulting
 
