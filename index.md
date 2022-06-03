@@ -1,7 +1,6 @@
 [Home](index.md) | [About](about.md) | [Contact](contact.md)
 
-# FULCRUM SAGE
-## Cybersecurity and Intelligence Strategic Consulting
+
 
 ### Cybersecurity
 
