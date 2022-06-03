@@ -1,4 +1,4 @@
-<div style="text-align: right">[Home](index.md) | [About](About.md) | [Contact](contact.md)</div>
+[Home](index.md) | [About](About.md) | [Contact](contact.md)
 
 # FULCRUM SAGE
 ## Cybersecurity and Intelligence Strategic Consulting
