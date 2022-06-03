@@ -13,4 +13,4 @@
 * Manage program implementation
 * Design talent recruitment and professional development plan
 
-**Reach out now to get started michael@fulcrumsage.com**
+**Reach out now to get started <michael@fulcrumsage.com>**
