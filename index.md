@@ -1,4 +1,4 @@
-# Fulcrum Sage
+# FULCRUM SAGE
 ## Cybersecurity and Intelligence Strategic Consulting
 
 ### Cybersecurity
