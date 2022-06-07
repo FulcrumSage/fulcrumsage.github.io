@@ -1,6 +1,7 @@
 ## What We Do
 
-* Design your security and/or intelligence program
+* Design cybersecurity and intelligence programs
+* Develop and manage implementation of cybersecurity policies
 * Manage program implementation (fractional CISO)
 * Review and revise existing programs for effectiveness and ROI
 
